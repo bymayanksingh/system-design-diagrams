@@ -9,6 +9,7 @@ Sequence diagrams are a powerful tool for visualizing the behavior of a system d
 #### Contents
 The repository currently contains sequence diagrams for the following popular system design questions:
 
+Design a URL Shorting Service: [Diagram](https://github.com/mayanksingh081/system-design-diagrams/blob/main/URL-SHORTENING-SERVICE.md)
 Designing a messaging system
 Designing a social network
 Designing a file storage system
