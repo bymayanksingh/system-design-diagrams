@@ -22,7 +22,7 @@ Each diagram is provided in mermaid.js syntax, making it easy to view and edit u
 ### NOTES
 
 - What is Canary Deployment: [Diagaram](https://github.com/mayanksingh081/system-design-diagrams/blob/main/CANARY-DEPLOYMENT.md)
-- What happens when you visit google.com from your browser? [Diagaram](https://github.com/mayanksingh081/system-design-diagrams/blob/main/VISTING-GOOGLE-FROM-BROWSER.md)
+- What happens when you visit google.com from your browser? [Diagaram](https://github.com/bymayanksingh/system-design-diagrams/blob/main/VISITING-GOOGLE-FROM-BROWSER.md)
 
 #### Contributing
 Contributions to this repository are welcome and encouraged! If you have a sequence diagram for a popular system design question that you would like to share, simply create a pull request with your changes.
