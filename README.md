@@ -17,7 +17,12 @@ The repository currently contains sequence diagrams for the following popular sy
 - Designing a job scheduling system
 - Designing a search engine
 
-Each diagram is provided in both PNG and SVG formats, making it easy to view and edit using a variety of tools.
+Each diagram is provided in mermaid.js syntax, making it easy to view and edit using a variety of tools.
+
+### NOTES
+What is?
+
+- Canary Deployment: [Diagaram](https://github.com/mayanksingh081/system-design-diagrams/blob/main/CANARY-DEPLOYMENT.md)
 
 #### Contributing
 Contributions to this repository are welcome and encouraged! If you have a sequence diagram for a popular system design question that you would like to share, simply create a pull request with your changes.
