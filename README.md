@@ -12,6 +12,7 @@ The repository currently contains sequence diagrams for the following popular sy
 - Design a URL Shorting Service: [Diagram](https://github.com/mayanksingh081/system-design-diagrams/blob/main/URL-SHORTENING-SERVICE.md)
 - Designing a messaging system
 - Designing a social network
+- Designing a News Feed Service: [Diagaram](https://github.com/mayanksingh081/system-design-diagrams/blob/main/NEWS-FEED-SERVICE.md)
 - Designing a file storage system
 - Designing a job scheduling system
 - Designing a search engine
